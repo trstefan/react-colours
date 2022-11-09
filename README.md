@@ -1,4 +1,3 @@
-https://trstefan.github.io/react-colours/
 
 # React Colours Generator
 
