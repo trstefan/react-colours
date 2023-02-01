@@ -1,32 +1,28 @@
 
 # React Colours Generator
 
-Colours generator built in React using Hooks. 
+## 🔗 Live Demo
+[Demo Link](https://trstefan.github.io/react-colours/)
 
-## Demo
-
-Here is a working live demo : [_https://trstefan.github.io/react-colours/_](https://trstefan.github.io/react-colours/)
-
-## Screenshots
+## 📷 Screenshots
 
 ![Alternate image text](https://i.ibb.co/dgYCVcQ/colours.gif)
 
+## 📝 Project Description
 
+Colours generator built in React using Hooks. 
 
-## Built With
+## 📚 Technologies
 
-  - HTML
-  - CSS
-  - Javascript
   - React
   - React Hooks (useState) 
+  - CSS
   
-## Features
+## 🎯 Features
   - Generate a random colour
   - Copy colour's code 
 
-
-### Setup
+## 🏃 Run locally
 
 Clone the project
 
@@ -52,7 +48,7 @@ Start the server
   npm run start
 ```
 
-## Acknowledgements
+## ⭐ Acknowledgements
 
  - [Generate a Random Color - css-tricks](https://css-tricks.com/snippets/javascript/random-hex-color/)
 
